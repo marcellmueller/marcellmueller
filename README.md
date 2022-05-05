@@ -20,3 +20,4 @@
 ![Terraform](https://img.shields.io/badge/Terraform-000?&logo=terraform)
 ![Docker](https://img.shields.io/badge/Docker-000?&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-000?&logo=helm)
