@@ -17,3 +17,6 @@
 ![Shopify](https://img.shields.io/badge/Shopify-000?&logo=shopify)
 ![CSS](https://img.shields.io/badge/CSS-000?&logo=css3)
 ![VSCode](https://img.shields.io/badge/VSCode-000?&logo=visualstudiocode)
+![Terraform](https://img.shields.io/badge/Terraform-000?&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-000?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?&logo=kubernetes)
